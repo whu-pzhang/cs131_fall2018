@@ -9,3 +9,5 @@ Basic linear algebra and image mainpulation
 Convolution and cross-correlation
 
 ## Homework 2
+
+Canny edge detector and Hough transform
